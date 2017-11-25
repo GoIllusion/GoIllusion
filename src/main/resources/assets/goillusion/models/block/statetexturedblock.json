@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "goillusion:blocks/statetexture",
+    "down": "goillusion:blocks/statetexture",
+    "up": "goillusion:blocks/statetexture",
+    "east": "goillusion:blocks/statetexture",
+    "west": "goillusion:blocks/statetexture",
+    "north": "#front",
+    "south": "goillusion:blocks/statetexture"
+  }
+}

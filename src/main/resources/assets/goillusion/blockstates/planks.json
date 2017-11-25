@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+        "variant=copper": { "model": "goillusion:planks_copper" },
+        "variant=aluminium": { "model": "goillusion:planks_aluminium" }
+    }
+}

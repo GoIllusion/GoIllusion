@@ -1,0 +1,95 @@
+itemGroup.mainTab=GoIllusion
+itemGroup.mainBlocks=Blocks
+itemGroup.mainItems=Items
+itemGroup.mainTools=Tools
+itemGroup.mainArmors=Armors
+
+item.tool_axe.name=Reinforced Iron Axe
+item.tool_sword.name=Reinforced Iron Sword
+
+item.iron_stick.name=Iron Stick
+
+item.reinforced_iron_axe.name=Reinforced Iron Axe
+item.tool_iron_axe.name=Upgraded Iron Axe
+
+item.item_base.name=Item Base
+item.dust_glowstone_black.name=Dust Glowstone Black
+item.item_base_multy.name=Item Base Multy
+item.item_iron_stick.name=Iron Stick
+
+tile.block_base.name=Block Base
+tile.block_base_simple.name=Block Base Simple
+tile.block_base_multy.name=Block Base Multy
+tile.simpletexturedblock.name=Block Simple Textured
+tile.multitexturedblock.name=Block Multi Textured
+tile.statetexturedblock.name=Block State Textured
+
+
+tile.glowstone_black.name=Black Glowstone
+tile.block_base_multi_textured.name=Block Luminosity Textured
+
+
+tile.block_partial.name=Decoration Block
+tile.block_partial_on.name=Light Decoration Block
+
+
+gui.main_configuration.mainTitle=General Configuration
+gui.mbe70_configuration.ctgy.general=General Configuration
+gui.mbe70_configuration.ctgy.general.tooltip=Standard configuration options
+gui.mbe70_configuration.ctgy.other=Other Configuration
+gui.mbe70_configuration.ctgy.other.tooltip=Other minor config options...
+gui.mbe70_configuration.myInteger=My Integer
+gui.mbe70_configuration.myInteger.tooltip=My Integer Tooltip
+gui.mbe70_configuration.myBoolean=My Boolean
+gui.mbe70_configuration.myBoolean.tooltip=My Boolean Tooltip
+gui.mbe70_configuration.myDouble=My Double
+gui.mbe70_configuration.myDouble.tooltip=My Double Tooltip
+gui.mbe70_configuration.myString=My String
+gui.mbe70_configuration.myString.tooltip=My String Tooltip
+gui.mbe70_configuration.myIntList=My Int List
+gui.mbe70_configuration.myIntList.tooltip=My Int List Tooltip
+gui.mbe70_configuration.myColour=My Colour
+gui.mbe70_configuration.myColour.tooltip=My Colour Tooltip
+
+
+
+
+generator.Copper=GoIllusion
+generator.Custom=GoIllusion Biomes
+
+item.ingot_copper.name=Copper Ingot
+item.axe_copper.name=Copper Axe
+item.hoe_copper.name=Copper Hoe
+item.pickaxe_copper.name=Copper Pickaxe
+item.shovel_copper.name=Copper Shovel
+item.sword_copper.name=Copper Sword
+item.helmet_copper.name=Copper Helmet
+item.chestplate_copper.name=Copper Chestplate
+item.leggings_copper.name=Copper Leggings
+item.boots_copper.name=Copper Boots
+
+#FARMING
+item.food_celery.name=Celery
+item.seed_celery.name=Seed Celery
+
+tile.block_copper.name=Copper Block
+
+tile.ore_overworld_aluminium.name=Aluminium Ore
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_end_aluminium.name=Ender Aluminium Ore
+tile.ore_end_copper.name=Ender Copper Ore
+tile.ore_nether_aluminium.name=Fiery Aluminium Ore
+tile.ore_nether_copper.name=Fiery Copper Ore
+
+tile.dirt_aluminium.name=Aluminium Dirt
+tile.planks_aluminium.name=Aluminium Planks
+tile.log_aluminium.name=Aluminium Log
+tile.leaves_aluminium.name=Aluminium Leaves
+tile.sapling_aluminium.name=Aluminium Sapling
+
+tile.dirt_copper.name=Copper Dirt
+tile.planks_copper.name=Copper Planks
+tile.log_copper.name=Copper Log
+tile.leaves_copper.name=Copper Leaves
+tile.sapling_copper.name=Copper Sapling
+

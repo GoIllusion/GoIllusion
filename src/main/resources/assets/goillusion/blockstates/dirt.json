@@ -1,0 +1,7 @@
+{
+    "variants": 
+    {
+        "variant=copper": { "model": "goillusion:dirt_copper" },
+        "variant=aluminium": { "model": "goillusion:dirt_aluminium" }
+    }
+}

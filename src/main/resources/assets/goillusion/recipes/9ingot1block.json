@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "goillusion:block_base"
+    }
+  },
+  "result": {
+    "item": "goillusion:block_base",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": 
+    {
+        "stage=0,variant=copper": { "model": "goillusion:sapling_copper" },
+        "stage=1,variant=copper": { "model": "goillusion:sapling_copper" },
+        
+        "stage=0,variant=aluminium": { "model": "goillusion:sapling_aluminium" },
+        "stage=1,variant=aluminium": { "model": "goillusion:sapling_aluminium" }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "goillusion:blocks/luminosity/luminosity_north",
+    "down": "goillusion:blocks/luminosity/luminosity_down",
+    "up": "goillusion:blocks/luminosity/luminosity_up",
+    "east": "goillusion:blocks/luminosity/luminosity_east",
+    "west": "goillusion:blocks/luminosity/luminosity_west",
+    "north": "goillusion:blocks/luminosity/luminosity_north",
+    "south": "goillusion:blocks/luminosity/luminosity_south"
+  }
+}

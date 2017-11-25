@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "goillusion:blocks/sapling_aluminium"
+    }
+}

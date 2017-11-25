@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "goillusion:blocks/log_aluminium_top",
+        "side": "goillusion:blocks/log_aluminium"
+    }
+}
